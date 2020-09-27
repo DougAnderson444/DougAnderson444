@@ -1,23 +1,11 @@
 ### Hi there 👋
 
-+----------------------+     +-------------------------------+                                                                                                                                                                                                                                
-| New phone, who dis?  +---->+ Why don't you have a pointer  |                                                                                                                
-+----------------------+     | to my number, bro?            |                                                                                                                
-                             +-------------------------------+                                                                                                                
-                                            |                                                                                                                
-+----------------------+                    v                                                                                                                
-|                      |     +-------------------------------+                                                                                                                
-| Works on my machine! |     |  Here's my pointer in         |                                                                                                                
-| Local First software +<----+  DECENTRALIZED LAND           |                                                                                                                
-|                      |     +-------------------------------+                                                                                                                
-+----------------------+                                                                                                                
-           |                                                                                                                
-           v                  +------------------------------+                                                                                                                
-+----------------------+      |                              |                                                                                                                
-|  Feeling very        |      |  Very Interplanetary of you. |                                                                                                                
-|  hyper://active      +----->+  ipffffffs://QmasterFresh    |                                                                                                                
-|                      |      |                              |                                                                                                                
-+----------------------+      +------------------------------+                                                                                                                
+- 🔭 I’m currently working on decentralized peer-2-peer tech
+- 🌱 I’m currently learning ipfs:// and hyper://
+- 👯 I’m looking to collaborate on anything with the above
+- 💬 Ask me about my days in the navy
+- 📫 How to reach me: ...
+- 😄 Pronouns: he/him
                                                                                                                 
 <!--
 **DougAnderson444/DougAnderson444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

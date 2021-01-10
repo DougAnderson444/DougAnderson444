@@ -6,6 +6,9 @@
 - 💬 Ask me about my days in the navy
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
+
+The stack I'm currently working on:
+<img src="./stack.svg">
                                                                                                                 
 <!--
 **DougAnderson444/DougAnderson444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

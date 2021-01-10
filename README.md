@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 
 The stack I'm currently working on:
-<img src="./stack.svg">
+<img src="https://raw.githubusercontent.com/DougAnderson444/DougAnderson444/4d761167f2ee2c1c84718dc6a08f403cc2a3c55c/stack.svg">
                                                                                                                 
 <!--
 **DougAnderson444/DougAnderson444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

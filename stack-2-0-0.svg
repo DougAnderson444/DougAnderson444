@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="720" overflow="hidden">
+  <defs/>
+  <defs>
+    <clipPath id="a">
+      <path d="M0 0h1280v720H0z"/>
+    </clipPath>
+    <clipPath id="b">
+      <path d="M0 0h3810000v3810000H0z"/>
+    </clipPath>
+    <clipPath id="c">
+      <path d="M-1 0h3810000v3810000H-1z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#a)">
+    <path fill="#FFF" d="M0 0h1280v720H0z"/>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M301 299h353v38H301z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(375 326)">
+      Corestore<tspan x="101" y="0">Networker</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M300 261h354v38H300z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(396 288)">
+      Kappa<tspan x="60" y="0">-</tspan><tspan x="68" y="0">multifeed</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M300 224h354v37H300z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(445 250)">
+      HyPNS
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M405 175h365v48H405z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(461 207)">
+      HyPNS<tspan x="65" y="0">-</tspan><tspan x="72" y="0">Svelte</tspan><tspan x="131" y="0">-</tspan><tspan x="138" y="0">Component</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M654 224h200v151H654z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(725 308)">
+      Svelte
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M1016 134h86v241h-86z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(1048 233)">
+      js-<tspan x="-8" y="29">did</tspan><tspan x="23" y="29">-</tspan><tspan x="-18" y="58">hypns</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M854 223h166v152H854z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(891 307)">
+      IPFS<tspan x="40" y="0">-</tspan><tspan x="47" y="0">Core</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M770 176h250v47H770z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(814 207)">
+      IPFS<tspan x="40" y="0">-</tspan><tspan x="47" y="0">Component</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M1104 133h68v242h-68z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(1108 262)">
+      Vercel
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M405 86h767v48H405z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(730 117)">
+      PeerPiper.io
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M300 135h106v88H300z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(323 158)">
+      Hypns<tspan x="-1" y="29">-</tspan><tspan x="6" y="29">super</tspan><tspan x="4" y="58">-</tspan><tspan x="11" y="58">peer</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M187 338h467v37H187z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(325 364)">
+      Hypercore-<tspan x="109" y="0">Protocol</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M406 134h614v42H406z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(664 163)">
+      did<tspan x="31" y="0">-</tspan><tspan x="38" y="0">locker</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M187 134h114v203H187z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(196 214)">
+      Hyperbee<tspan x="19" y="29">Super</tspan><tspan x="25" y="58">pee</tspan><tspan x="62" y="58">r</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M103 86h303v48H103z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(197 117)">
+      Super <tspan x="62" y="0">Peers</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M103 135h85v240h-85z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(116 248)">
+      Deno.<tspan x="6" y="29">Land</tspan>
+    </text>
+    <path fill="#FFF" stroke="#70AD47" stroke-miterlimit="8" stroke-width="6" d="M103 375h1069v38H103z"/>
+    <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" transform="translate(481 402)">
+      Hypercore-<tspan x="109" y="0">Protocol/Hyperspace</tspan>
+    </text>
+    <g clip-path="url(#b)" transform="matrix(.0001 0 0 .0001 730 251)">
+      <g clip-path="url(#c)">
+        <use width="100%" height="100%" transform="scale(9525)" xlink:href="#d"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on decentralized peer-2-peer tech
-- 🌱 I’m currently learning ipfs:// and hyper://
+- 🔭 Love working on Web3, DWeb, decentralized peer-2-peer tech
+- 🌱 I’m currently learning ipfs://, hyper://core, and ar://weave
 - 👯 I’m looking to collaborate on anything with the above
-- 💬 Ask me about my days in the navy
-- 📫 How to reach me: ...
+- 💬 Ask me about my days in the Navy
+- 📫 How to reach me: @douganderson444 anywhere that counts
 - 😄 Pronouns: he/him
 
 The stack I'm currently working on:

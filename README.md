@@ -6,6 +6,8 @@
 - 📫 How to reach me: @douganderson444 anywhere that counts
 - 😄 Pronouns: he/him
 
+[![Krupitskas's github stats](https://github-readme-stats.vercel.app/api?username=DougAnderson444)](https://github.com/anuraghazra/github-readme-stats)
+
 The stack I'm currently working on:
 <img src="https://raw.githubusercontent.com/DougAnderson444/DougAnderson444/master/stack-2-0-0.svg">                                                                                                        
 <!--

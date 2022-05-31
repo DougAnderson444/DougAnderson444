@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Love working on Web3, DWeb, decentralized peer-2-peer tech
-- 🌱 I’m currently learning ipfs://, hyper://core, ar://weave, and sol://ana
+- 🌱 I hack on ipfs, ipld hypercore, arweave, and solana
 - 👯 I’m looking to collaborate on anything with the above
 - 📫 How to reach me: @douganderson444 anywhere that counts
 - 😄 Pronouns: he/him

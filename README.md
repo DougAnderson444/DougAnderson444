@@ -8,8 +8,8 @@
 
 [![Krupitskas's github stats](https://github-readme-stats.vercel.app/api?username=DougAnderson444)](https://github.com/anuraghazra/github-readme-stats)
 
-Currently working on Self-Updating Internet Technology enabled Decentralized Apps (SUITable DApps, for short):
-
+Currently working on Self-Updating Internet Technology enabled Decentralized Apps (SUITable DApps, for short).
+<!--
 ```mermaid
 flowchart LR
   subgraph SUITable-DApps
@@ -53,6 +53,7 @@ flowchart LR
   AliceRenders-->AliceDecrypt
   AliceDecrypt-->AliceDApp[Alice renders DApp +\n  Data in the browser]
 ```                                                                                                      
+-->
 <!--
 **DougAnderson444/DougAnderson444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

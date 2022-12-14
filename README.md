@@ -6,6 +6,4 @@
 - 📫 How to reach me: @douganderson444 anywhere that counts
 - 😄 Pronouns: he/him
 
-[![Krupitskas's github stats](https://github-readme-stats.vercel.app/api?username=DougAnderson444)](https://github.com/anuraghazra/github-readme-stats)
-
 Currently working on Self-Updating Internet Technology enabled Decentralized Apps (SUITable DApps, for short).

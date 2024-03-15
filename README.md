@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I'm Doug, and I build systems.
+
 - 🔭 Full Stack Founder: Engineer, Masters degree in Business (UWaterloo), Speaker, all around nice guy
 - 🌱 Open Web, Web3, DWeb, peer-2-peer tech
 - 🌱 ipfs, ipld, libp2p, hypercore, arweave, and solana and more

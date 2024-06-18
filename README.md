@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Doug, world-class systems builder.
+## I'm Doug, I love to dissect, analyze, and build systems.
 
 - 🔭 Full Stack Founder: Engineer, Masters degree in Business (UWaterloo), Speaker, all around nice guy
 - 🌱 Open Web, Web3, DWeb, peer-2-peer tech
